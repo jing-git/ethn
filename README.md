@@ -28,6 +28,6 @@ ethnc.conf配置示例：
 
 >sleep_to:*				-
 
->forward:0				wan口的数据只通过服务器转发
+>forward:0				禁止wan口的数据只通过服务器转发
 
 项目博客：http://blog.jing.pw
